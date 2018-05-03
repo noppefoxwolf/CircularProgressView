@@ -1,0 +1,16 @@
+PODS:
+  - CircularProgressView (0.1.0)
+
+DEPENDENCIES:
+  - CircularProgressView (from `../`)
+
+EXTERNAL SOURCES:
+  CircularProgressView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CircularProgressView: cc3efb27a41d90e6b472aeee7c15847479dc1a54
+
+PODFILE CHECKSUM: fa993748dfa95c141dcb493f5906018bc11c3b21
+
+COCOAPODS: 1.5.0
