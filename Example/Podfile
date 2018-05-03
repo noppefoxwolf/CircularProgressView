@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CircularProgressView_Example' do
+  pod 'CircularProgressView', :path => '../'
+
+  target 'CircularProgressView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
